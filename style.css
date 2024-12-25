@@ -1,0 +1,32 @@
+/* Lobster */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Rubik+Vinyl&display=swap');
+
+/* Indie flower */
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lobster&family=Rubik+Vinyl&display=swap');
+
+body {
+    background-color: #34353E;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.dice {
+    display: inline-block;
+    margin: 40px;
+}
+
+.dice p {
+    font-size: 2.5em;
+    color: #44C496;
+    font-family: 'Indie Flower', cursive;
+}
+
+.container h1 {
+    font-size: 8em;
+    font-family: 'Lobster', cursive;
+    color: #44C496;
+}
